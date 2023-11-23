@@ -10,7 +10,8 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            margin: 20px;
+            /* margin: 20px; */
+            padding: 0;
         }
 
         h1 {
@@ -27,8 +28,24 @@
             padding-left: 0;
         }
 
-        li {
-            margin-bottom: 10px;
+        li+li {
+            margin-top: 10px;
+        }
+
+        h3 {
+            margin-top: 2rem;
+        }
+
+        ul {
+            margin-bottom: 2rem;
+        }
+
+        nav li {
+            margin: 0;
+        }
+
+        .intro {
+            width: 100%;
         }
     </style>
 </head>
@@ -38,7 +55,7 @@
         <div class="container">
             <nav>
                 <div class="logo">
-                    <span role="image">🤑</span>
+                    <span role="image"><img src="/logo"></span>
                 </div>
                 <ul class="nav-list">
                     <li><a href="/" class="nav-link">Home</a></li>
@@ -48,68 +65,84 @@
             </nav>
         </div>
     </header>
-
-    <h1>Anime Quotes API Documentation</h1>
-
-    <h2>Base URL</h2>
-    <p>The base URL for accessing the API endpoints is <code>https://anime-blossom-quotes.onrender.com</code>.</p>
-
-    <h2>Endpoints</h2>
-
-    <h3>Get Random Quote</h3>
-    <ul>
-        <li><strong>URL:</strong> <code>/api/quotes/random</code></li>
-        <li><strong>Method:</strong> <code>GET</code></li>
-        <li><strong>Description:</strong> Retrieves a random quote from the collection of anime quotes.</li>
-        <li><strong>Response:</strong> A JSON object containing a random quote.</li>
-    </ul>
-    <hr>
-    <h3>Get All Quotes</h3>
-    <ul>
-        <li><strong>URL:</strong> <code>/api/quotes</code></li>
-        <li><strong>Method:</strong> <code>GET</code></li>
-        <li><strong>Description:</strong> Retrieves all available quotes from the collection.</li>
-        <li><strong>Response:</strong> An array of JSON objects, each representing a quote.</li>
-    </ul>
-    <hr>
-    <h3>Get Quote by ID</h3>
-    <ul>
-        <li><strong>URL:</strong> <code>/api/quotes/:id</code></li>
-        <li><strong>Method:</strong> <code>GET</code></li>
-        <li><strong>Description:</strong> Retrieves a quote by its ID.</li>
-        <li><strong>Parameters:</strong>
-            <ul>
-                <li><code>id</code> (integer) - The ID of the quote to be retrieved.</li>
-            </ul>
-        </li>
-        <li><strong>Response:</strong> A JSON object containing the requested quote if found; otherwise, an error
-            message indicating an invalid ID.</li>
-    </ul>
-    <hr>
-    <h3>Get Quote by Character Name</h3>
-    <ul>
-        <li><strong>URL:</strong> <code>/api/quotes/character</code></li>
-        <li><strong>Method:</strong> <code>GET</code></li>
-        <li><strong>Description:</strong> Retrieves a quote based on the character name.</li>
-        <li><strong>Parameters:</strong>
-            <ul>
-                <li><code>name</code> (string) - The name of the character to search for.</li>
-            </ul>
-        </li>
-        <li><strong>Response:</strong> A JSON object containing the quote related to the specified character if found;
-            otherwise, an error message indicating an invalid character name.</li>
-    </ul>
-    <hr>
+    <main>
 
 
-    <h3>Error Handling</h3>
-    <ul>
-        <li>If an invalid ID is provided while querying by ID, the response will contain an error message specifying an
-            invalid ID.</li>
-        <li>If an invalid character name is provided while querying by character, the response will contain an error
-            message specifying an invalid character name.</li>
-    </ul>
+        <div class="container">
 
+            <div class="intro">
+                <h1>Anime Quotes API Documentation</h1>
+
+                <h2>Base URL</h2>
+                <p>The base URL for accessing the API endpoints is
+                    <code>https://anime-blossom-quotes.onrender.com</code>.
+                </p>
+
+                <h2>Endpoints</h2>
+
+                <h3>Get Random Quote</h3>
+                <ul>
+                    <li><strong>URL:</strong> <code>/api/quotes/random</code></li>
+                    <li><strong>Method:</strong> <code>GET</code></li>
+                    <li><strong>Description:</strong> Retrieves a random quote from the collection of anime quotes.</li>
+                    <li><strong>Response:</strong> A JSON object containing a random quote.</li>
+                </ul>
+                <hr>
+                <h3>Get All Quotes</h3>
+                <ul>
+                    <li><strong>URL:</strong> <code>/api/quotes</code></li>
+                    <li><strong>Method:</strong> <code>GET</code></li>
+                    <li><strong>Description:</strong> Retrieves all available quotes from the collection.</li>
+                    <li><strong>Response:</strong> An array of JSON objects, each representing a quote.</li>
+                </ul>
+                <hr>
+                <h3>Get Quote by ID</h3>
+                <ul>
+                    <li><strong>URL:</strong> <code>/api/quotes/:id</code></li>
+                    <li><strong>Method:</strong> <code>GET</code></li>
+                    <li><strong>Description:</strong> Retrieves a quote by its ID.</li>
+                    <li><strong>Parameters:</strong>
+                        <ul>
+                            <li><code>id</code> (integer) - The ID of the quote to be retrieved.</li>
+                        </ul>
+                    </li>
+                    <li><strong>Response:</strong> A JSON object containing the requested quote if found; otherwise, an
+                        error
+                        message indicating an invalid ID.</li>
+                </ul>
+                <hr>
+                <h3>Get Quote by Character Name</h3>
+                <ul>
+                    <li><strong>URL:</strong> <code>/api/quotes/character</code></li>
+                    <li><strong>Method:</strong> <code>GET</code></li>
+                    <li><strong>Description:</strong> Retrieves a quote based on the character name.</li>
+                    <li><strong>Parameters:</strong>
+                        <ul>
+                            <li><code>name</code> (string) - The name of the character to search for.</li>
+                        </ul>
+                    </li>
+                    <li><strong>Response:</strong> A JSON object containing the quote related to the specified character
+                        if
+                        found;
+                        otherwise, an error message indicating an invalid character name.</li>
+                </ul>
+                <hr>
+
+
+                <h3>Error Handling</h3>
+                <ul>
+                    <li>If an invalid ID is provided while querying by ID, the response will contain an error message
+                        specifying
+                        an
+                        invalid ID.</li>
+                    <li>If an invalid character name is provided while querying by character, the response will contain
+                        an
+                        error
+                        message specifying an invalid character name.</li>
+                </ul>
+            </div>
+        </div>
+    </main>
 </body>
 
 </html>

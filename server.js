@@ -43,6 +43,10 @@ app.get('/css/styles.css', (req, res) => {
 app.get('/bg', (req, res) => {
     res.sendFile(__dirname + '/public/images/bg.jpg')
 })
+
+app.get('/logo', (Req, res) => {
+    res.sendFile(__dirname + '/public/images/logo.png')
+})
 //  SEND QUOTES
 app.get('/api/quotes', (req, res) => {
     res.json(quotes)

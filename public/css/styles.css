@@ -13,8 +13,13 @@ body {
     font-family: Arial, sans-serif;
 }
 
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
 .container {
-    max-width: 1100px;
+    max-width: 1400px;
     margin: 0 auto;
 }
 
@@ -29,7 +34,13 @@ header:hover {
 nav {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 1em;
+}
+
+.logo {
+    height: 40px;
+    width: 40px;
 }
 
 .nav-link {
@@ -45,19 +56,28 @@ nav {
 
 main {
     background-image: url('/bg');
-    background-position: center;
+    background-position: 'center';
     background-size: cover;
     min-height: 100vh;
+    padding: 3em;
+}
+
+@media (max-width:700px) {
+    main {
+        padding: 1em;
+    }
 }
 
 .intro {
-    background: rgba(0, 0, 0, .6);
+    background: rgba(0, 0, 0, .8);
     border-radius: 1rem;
     color: white;
     padding: 1em;
     max-width: 100%;
-    width: 600px;
+    width: 800px;
+    margin-left: 0;
 }
+
 
 .intro h2 {
     margin: 1em 0;
