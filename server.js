@@ -1,6 +1,6 @@
 const express = require('express');
 const path = require('path');
-const core = require('cors')
+const cors = require('cors')
 const invalid = [{
     "error": "Invalid ID",
     "message": "The requested ID does not exist or is invalid."
