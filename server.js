@@ -1,5 +1,6 @@
 const express = require('express');
 const path = require('path');
+const core = require('cors')
 const invalid = [{
     "error": "Invalid ID",
     "message": "The requested ID does not exist or is invalid."
@@ -13,10 +14,12 @@ const invalid = [{
 const quotes = require('./quotes');
 
 const app = express()
-
+app.use(cors())
 function getRandomInt(max) {
     return Math.floor(Math.random() * max);
 }
+
+
 
 //  HOME PAGE
 app.get('/', (req, res) => {
