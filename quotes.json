@@ -1,0 +1,541 @@
+[
+  {
+    "quote": "We're born free. I am free. If someone is willing to take my freedom, I won't hesitate to take theirs.",
+    "character": "Eren Yeager",
+    "anime": "Attack on Titan",
+    "id": 1
+  },
+  {
+    "quote": "If you win, you live. If you lose, you die. If you don't fight, you can't win!",
+    "character": "Eren Yeager",
+    "anime": "Attack on Titan",
+    "id": 2
+  },
+  {
+    "quote": "To surpass monsters, you have to discard your humanity.",
+    "character": "Armin Arlert",
+    "anime": "Attack on Titan",
+    "id": 3
+  },
+  {
+    "quote": "Everyone can make a choice after they have learned what it will result in... But you don't know what your choice will result in before actually choosing.",
+    "character": "Armin Arlert",
+    "anime": "Attack on Titan",
+    "id": 4
+  },
+  {
+    "quote": "I don't like the terms 'good person' or 'bad person.' It is impossible to be entirely good to everyone.",
+    "character": "Armin Arlert",
+    "anime": "Attack on Titan",
+    "id": 5
+  },
+  {
+    "quote": "If there are humans who can bring about change, they're those who are capable of abandoning everything.",
+    "character": "Armin Arlert",
+    "anime": "Attack on Titan",
+    "id": 6
+  },
+  {
+    "quote": "I thought I heard dirt moving around in the shape of an idiot. So it was you?",
+    "character": "Levi Ackerman",
+    "anime": "Attack on Titan",
+    "id": 7
+  },
+  {
+    "quote": "A person who cannot give up anything, can change nothing.",
+    "character": "Levi Ackerman",
+    "anime": "Attack on Titan",
+    "id": 8
+  },
+  {
+    "quote": "There's nothing further removed from freedom than ignorance.",
+    "character": "Levi Ackerman",
+    "anime": "Attack on Titan",
+    "id": 9
+  },
+  {
+    "quote": "What's so good about giving up? Is it better to escape from reality, to the point where you're throwing away your hope?",
+    "character": "Erwin Smith",
+    "anime": "Attack on Titan",
+    "id": 10
+  },
+  {
+    "quote": "You know personally, I think nothing instills discipline like pain.",
+    "character": "Hange Zoë",
+    "anime": "Attack on Titan",
+    "id": 11
+  },
+  {
+    "quote": "Because I was born into this world.",
+    "character": "Mikasa Ackerman",
+    "anime": "Attack on Titan",
+    "id": 12
+  },
+  {
+    "quote": "Those who don't know themselves don't know their strength.",
+    "character": "Yuji Itadori",
+    "anime": "Jujutsu Kaisen",
+    "id": 13
+  },
+  {
+    "quote": "Fear is not something you overcome. It's something you learn to live with.",
+    "character": "Gojo Satoru",
+    "anime": "Jujutsu Kaisen",
+    "id": 14
+  },
+  {
+    "quote": "Curses are born from human negativity. The more fear and hatred there is in the world, the stronger they become.",
+    "character": "Megumi Fushiguro",
+    "anime": "Jujutsu Kaisen",
+    "id": 15
+  },
+  {
+    "quote": "The only way to defeat a curse is with a stronger curse.",
+    "character": "Nobara Kugisaki",
+    "anime": "Jujutsu Kaisen",
+    "id": 16
+  },
+  {
+    "quote": "The world is not what it seems. There's a whole other world out there that most people don't even know exists.",
+    "character": "Mahito",
+    "anime": "Jujutsu Kaisen",
+    "id": 17
+  },
+  {
+    "quote": "Humans are weak creatures. They're easily manipulated and controlled by their emotions.",
+    "character": "Sukuna Ryomen",
+    "anime": "Jujutsu Kaisen",
+    "id": 18
+  },
+  {
+    "quote": "In a world full of curses, you must become a curse yourself.",
+    "character": "Geto Suguru",
+    "anime": "Jujutsu Kaisen",
+    "id": 19
+  },
+  {
+    "quote": "The only thing more terrifying than a curse is a human being.",
+    "character": "Toji Fushiguro",
+    "anime": "Jujutsu Kaisen",
+    "id": 20
+  },
+  {
+    "quote": "The true power of jujutsu lies not in technique, but in the heart of the sorcerer.",
+    "character": "Maki Zenin",
+    "anime": "Jujutsu Kaisen",
+    "id": 21
+  },
+  {
+    "quote": "The path of a sorcerer is one of sacrifice. We must give up everything we hold dear in order to protect the world from curses.",
+    "character": "Nanami Kento",
+    "anime": "Jujutsu Kaisen",
+    "id": 22
+  },
+  {
+    "quote": "I'm not gonna run away, I never go back on my word! Even if I die, I'll never give up on my dream of becoming Hokage!",
+    "character": "Naruto Uzumaki",
+    "anime": "Naruto",
+    "id": 23
+  },
+  {
+    "quote": "You don't have to like me, but I will always be here for you.",
+    "character": "Naruto Uzumaki",
+    "anime": "Naruto",
+    "id": 24
+  },
+  {
+    "quote": "Believe it!",
+    "character": "Naruto Uzumaki",
+    "anime": "Naruto",
+    "id": 25
+  },
+  {
+    "quote": "If you don't like the hand that fate's dealt you with, fight for a new one.",
+    "character": "Naruto Uzumaki",
+    "anime": "Naruto",
+    "id": 26
+  },
+  {
+    "quote": "A shinobi's life is lived with the understanding that death is always a possibility.",
+    "character": "Hiruzen Sarutobi",
+    "anime": "Naruto",
+    "id": 27
+  },
+  {
+    "quote": "The true measure of a shinobi is not how they live, but how they die.",
+    "character": "Jiraiya",
+    "anime": "Naruto",
+    "id": 28
+  },
+  {
+    "quote": "The leaf village is my home. I will protect it with my life.",
+    "character": "Kakashi Hatake",
+    "anime": "Naruto",
+    "id": 29
+  },
+  {
+    "quote": "A true hero never gives up, even when there's no hope.",
+    "character": "Gara",
+    "anime": "Naruto",
+    "id": 30
+  },
+  {
+    "quote": "The future is never set in stone. It's up to us to change it.",
+    "character": "Itachi Uchiha",
+    "anime": "Naruto",
+    "id": 31
+  },
+  {
+    "quote": "Love is the most powerful force in the world.",
+    "character": "Kushina Uzumaki",
+    "anime": "Naruto",
+    "id": 32
+  },
+  {
+    "quote": "Friendship is a bond that can never be broken.",
+    "character": "Sasuke Uchiha",
+    "anime": "Naruto",
+    "id": 33
+  },
+  {
+    "quote": "Never give up on your dreams, no matter what.",
+    "character": "Rock Lee",
+    "anime": "Naruto",
+    "id": 34
+  },
+  {
+    "quote": "The only thing that can defeat fear is courage.",
+    "character": "Tsunade",
+    "anime": "Naruto",
+    "id": 35
+  },
+  {
+    "quote": "The true meaning of strength is not about how much power you have, but about how you use it.",
+    "character": "Might Guy",
+    "anime": "Naruto",
+    "id": 36
+  },
+  {
+    "quote": "The world is full of possibilities. The only thing that's stopping you is yourself.",
+    "character": "Obito Uchiha",
+    "anime": "Naruto",
+    "id": 37
+  },
+  {
+    "quote": "You can't move forward if you're always looking back.",
+    "character": "Monkey D. Luffy",
+    "anime": "One Piece",
+    "id": 38,
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Monkey_D._Luffy_%28One_Piece%29%29.png"
+  },
+  {
+    "quote": "I don't care what you say. I'm gonna be the Pirate King!",
+    "character": "Monkey D. Luffy",
+    "anime": "One Piece",
+    "id": 39,
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/39/Monkey_D._Luffy_%28One_Piece%29%29.jpg"
+  },
+  {
+    "quote": "A dream is not made reality through talent alone. Character is more important.",
+    "character": "Monkey D. Garp",
+    "anime": "One Piece",
+    "id": 40,
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Monkey_D._Garp.jpg"
+  },
+  {
+    "quote": "It's not about victory. It's about not giving up until the very end.",
+    "character": "Roronoa Zoro",
+    "anime": "One Piece",
+    "id": 41,
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b0/Roronoa_Zoro.jpg"
+  },
+  {
+    "quote": "A man's dream will never die!",
+    "character": "Portgas D. Ace",
+    "anime": "One Piece",
+    "id": 42,
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Portgas_D._Ace.jpg"
+  },
+  {
+    "quote": "A man should stand tall even in the face of death.",
+    "character": "Whitebeard",
+    "anime": "One Piece",
+    "id": 43,
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Edward_Newgate_%28One_Piece%29.jpg"
+  },
+  {
+    "quote": "A true hero is someone who fights not for himself, but for his friends.",
+    "character": "Nico Robin",
+    "anime": "One Piece",
+    "id": 44,
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/Nico_Robin.jpg"
+  },
+  {
+    "quote": "The past cannot be changed. The future is yet in your hands.",
+    "character": "Monkey D. Dragon",
+    "anime": "One Piece",
+    "id": 45,
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/37/Monkey_D._Dragon_%28One_Piece%29.jpg"
+  },
+  {
+    "quote": "A pirate's life is full of adventure!",
+    "character": "Tony Tony Chopper",
+    "anime": "One Piece",
+    "id": 46,
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/67/Tony_Tony_Chopper.jpg"
+  },
+  {
+    "quote": "The world is a vast and wonderful place. It's full of possibilities.",
+    "character": "Nami",
+    "anime": "One Piece",
+    "id": 47,
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/7e/Nami_%28One_Piece%29.jpg"
+  },
+  {
+    "quote": "A true friend is someone who will always be there for you, no matter what.",
+    "character": "Usopp",
+    "anime": "One Piece",
+    "id": 48,
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Usopp_%28One_Piece%29.jpg"
+  },
+  {
+    "quote": "A true warrior needs no blade.",
+    "character": "Thorfinn",
+    "anime": "Vinland Saga",
+    "id": 49
+  },
+  {
+    "quote": "True strength is not in the body. True strength lies in the mind.",
+    "character": "Askeladd",
+    "anime": "Vinland Saga",
+    "id": 50
+  },
+  {
+    "quote": "Freedom is what everyone wants, but it's not easily obtained.",
+    "character": "Canute",
+    "anime": "Vinland Saga",
+    "id": 51
+  },
+  {
+    "quote": "Even if we die, our legend will live on.",
+    "character": "Bjorn",
+    "anime": "Vinland Saga",
+    "id": 52
+  },
+  {
+    "quote": "Revenge is a powerful motivator, but it can also consume you.",
+    "character": "Thorkell",
+    "anime": "Vinland Saga",
+    "id": 53
+  },
+  {
+    "quote": "True happiness is found in peaceful moments.",
+    "character": "Leif",
+    "anime": "Vinland Saga",
+    "id": 54
+  },
+  {
+    "quote": "War breeds nothing but death and sorrow.",
+    "character": "Gudrid",
+    "anime": "Vinland Saga",
+    "id": 55
+  },
+  {
+    "quote": "The only way to stop a cycle of violence is through forgiveness.",
+    "character": "Helga",
+    "anime": "Vinland Saga",
+    "id": 56
+  },
+  {
+    "quote": "Strength in unity can overcome the greatest of challenges.",
+    "character": "Thors",
+    "anime": "Vinland Saga",
+    "id": 57
+  },
+  {
+    "quote": "The pursuit of power often leads to one's downfall.",
+    "character": "Floki",
+    "anime": "Vinland Saga",
+    "id": 58
+  },
+  {
+    "quote": "Courage is not the absence of fear. It is the ability to face it.",
+    "character": "Ichigo Kurosaki",
+    "anime": "Bleach",
+    "id": 59
+  },
+  {
+    "quote": "Strength is not just physical power, but the power to protect others.",
+    "character": "Rukia Kuchiki",
+    "anime": "Bleach",
+    "id": 60
+  },
+  {
+    "quote": "The past is something you should learn from, not run from.",
+    "character": "Urahara Kisuke",
+    "anime": "Bleach",
+    "id": 61
+  },
+  {
+    "quote": "True warriors use their swords only to protect life.",
+    "character": "Kenpachi Zaraki",
+    "anime": "Bleach",
+    "id": 62
+  },
+  {
+    "quote": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
+    "character": "Yoruichi Shihouin",
+    "anime": "Bleach",
+    "id": 63
+  },
+  {
+    "quote": "Sometimes the thing that is holding you back is all in your head.",
+    "character": "Byakuya Kuchiki",
+    "anime": "Bleach",
+    "id": 64
+  },
+  {
+    "quote": "No matter how deep the night, it always turns to day, eventually.",
+    "character": "Toshiro Hitsugaya",
+    "anime": "Bleach",
+    "id": 65
+  },
+  {
+    "quote": "A man chooses. A slave obeys.",
+    "character": "Sosuke Aizen",
+    "anime": "Bleach",
+    "id": 66
+  },
+  {
+    "quote": "The ones who break the rules are scum, but those who abandon their friends are worse than scum.",
+    "character": "Mayuri Kurotsuchi",
+    "anime": "Bleach",
+    "id": 67
+  },
+  {
+    "quote": "There is nothing that is absolute in this world. Even the brightest flame eventually flickers and goes out.",
+    "character": "Jushiro Ukitake",
+    "anime": "Bleach",
+    "id": 68
+  },
+  {
+    "quote": "Your 'intent' is not enough. You must be willing to put your life on the line!",
+    "character": "Tanjiro Kamado",
+    "anime": "Demon Slayer",
+    "id": 69
+  },
+  {
+    "quote": "Don't ever give up. Even if it's painful, even if it's agonizing, stay true to yourself.",
+    "character": "Nezuko Kamado",
+    "anime": "Demon Slayer",
+    "id": 70
+  },
+  {
+    "quote": "The bond between Nezuko and I can't be severed by anyone!",
+    "character": "Zenitsu Agatsuma",
+    "anime": "Demon Slayer",
+    "id": 71
+  },
+  {
+    "quote": "Crying doesn't mean you're weak. It means you've been strong for too long.",
+    "character": "Giyu Tomioka",
+    "anime": "Demon Slayer",
+    "id": 72
+  },
+  {
+    "quote": "To be able to cut off your own head... you must be able to see through your own neck.",
+    "character": "Kyojuro Rengoku",
+    "anime": "Demon Slayer",
+    "id": 73
+  },
+  {
+    "quote": "When you're going through hell, keep going.",
+    "character": "Shinobu Kocho",
+    "anime": "Demon Slayer",
+    "id": 74
+  },
+  {
+    "quote": "Weaklings will stay weak forever. But weakness is not evil, so stay strong.",
+    "character": "Tengen Uzui",
+    "anime": "Demon Slayer",
+    "id": 75
+  },
+  {
+    "quote": "I'll carry on the feelings of those who've died. That's why I'll continue to fight!",
+    "character": "Muichiro Tokito",
+    "anime": "Demon Slayer",
+    "id": 76
+  },
+  {
+    "quote": "Even in the face of tragedy, a truly strong person will summon the courage to smile.",
+    "character": "Kanao Tsuyuri",
+    "anime": "Demon Slayer",
+    "id": 77
+  },
+  {
+    "quote": "Humans are fragile. They easily break when they fall.",
+    "character": "Muzan Kibutsuji",
+    "anime": "Demon Slayer",
+    "id": 78
+  },
+  {
+    "quote": "The moment you give up is the moment you let someone else win.",
+    "character": "Shoyo Hinata",
+    "anime": "Haikyuu!!",
+    "id": 79
+  },
+  {
+    "quote": "There's no match that we can't win.",
+    "character": "Tobio Kageyama",
+    "anime": "Haikyuu!!",
+    "id": 80
+  },
+  {
+    "quote": "Volleyball is a sport where you're always looking up!",
+    "character": "Yu Nishinoya",
+    "anime": "Haikyuu!!",
+    "id": 81
+  },
+  {
+    "quote": "The only ones who can beat me are me...and the strongest.",
+    "character": "Asahi Azumane",
+    "anime": "Haikyuu!!",
+    "id": 82
+  },
+  {
+    "quote": "It's not the victory that's most important. It's the fight.",
+    "character": "Daichi Sawamura",
+    "anime": "Haikyuu!!",
+    "id": 83
+  },
+  {
+    "quote": "If you're going to hit it, hit it until it breaks!",
+    "character": "Kei Tsukishima",
+    "anime": "Haikyuu!!",
+    "id": 84
+  },
+  {
+    "quote": "The stronger the opponent, the more fun it gets!",
+    "character": "Tadashi Yamaguchi",
+    "anime": "Haikyuu!!",
+    "id": 85
+  },
+  {
+    "quote": "The past doesn't exist here. Only the future.",
+    "character": "Koshi Sugawara",
+    "anime": "Haikyuu!!",
+    "id": 86
+  },
+  {
+    "quote": "The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.",
+    "character": "Ittetsu Takeda",
+    "anime": "Haikyuu!!",
+    "id": 87
+  },
+  {
+    "quote": "Even if we're not confident that we'll win, even if others tell us we don't stand a chance, we must never tell ourselves that.",
+    "character": "Kiyoko Shimizu",
+    "anime": "Haikyuu!!",
+    "id": 88
+  }
+]

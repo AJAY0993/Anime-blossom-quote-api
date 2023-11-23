@@ -1,0 +1,68 @@
+/* #4E8192
+3D636C */
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #3d636c;
+}
+
+header:hover {
+    background-color: #4e8192;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+}
+
+main {
+    background-image: url('/bg');
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.intro {
+    background: rgba(0, 0, 0, .6);
+    border-radius: 1rem;
+    color: white;
+    padding: 1em;
+    max-width: 100%;
+    width: 600px;
+}
+
+.intro h2 {
+    margin: 1em 0;
+}
+
+p+p {
+    margin-top: 2em;
+}
