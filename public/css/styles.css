@@ -86,3 +86,25 @@ main {
 p+p {
     margin-top: 2em;
 }
+
+
+main ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+main li+li {
+    margin-top: 10px;
+}
+
+h3 {
+    margin-top: 2rem;
+}
+
+main ul {
+    margin-bottom: 2rem;
+}
+
+.intro {
+    width: 100%;
+}

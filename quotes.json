@@ -3,72 +3,84 @@
     "quote": "We're born free. I am free. If someone is willing to take my freedom, I won't hesitate to take theirs.",
     "character": "Eren Yeager",
     "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg",
     "id": 1
   },
   {
     "quote": "If you win, you live. If you lose, you die. If you don't fight, you can't win!",
     "character": "Eren Yeager",
     "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg",
     "id": 2
   },
   {
     "quote": "To surpass monsters, you have to discard your humanity.",
     "character": "Armin Arlert",
     "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg",
     "id": 3
   },
   {
     "quote": "Everyone can make a choice after they have learned what it will result in... But you don't know what your choice will result in before actually choosing.",
     "character": "Armin Arlert",
     "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg",
     "id": 4
   },
   {
     "quote": "I don't like the terms 'good person' or 'bad person.' It is impossible to be entirely good to everyone.",
     "character": "Armin Arlert",
     "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg",
     "id": 5
   },
   {
     "quote": "If there are humans who can bring about change, they're those who are capable of abandoning everything.",
     "character": "Armin Arlert",
     "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg",
     "id": 6
   },
   {
     "quote": "I thought I heard dirt moving around in the shape of an idiot. So it was you?",
     "character": "Levi Ackerman",
     "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg",
     "id": 7
   },
   {
     "quote": "A person who cannot give up anything, can change nothing.",
     "character": "Levi Ackerman",
     "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg",
     "id": 8
   },
   {
     "quote": "There's nothing further removed from freedom than ignorance.",
     "character": "Levi Ackerman",
     "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg",
     "id": 9
   },
   {
     "quote": "What's so good about giving up? Is it better to escape from reality, to the point where you're throwing away your hope?",
     "character": "Erwin Smith",
     "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg",
     "id": 10
   },
   {
     "quote": "You know personally, I think nothing instills discipline like pain.",
     "character": "Hange Zoë",
     "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg",
     "id": 11
   },
   {
     "quote": "Because I was born into this world.",
     "character": "Mikasa Ackerman",
     "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg",
     "id": 12
   },
   {
@@ -777,5 +789,47 @@
     "character": "Nishiki Nishio",
     "anime": "Tokyo Ghoul",
     "id": 128
+  },
+  {
+    "id": 129,
+    "quote": "You must seek freedom. It's your right.",
+    "character": "Grisha Yeager",
+    "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg"
+  },
+  {
+    "id": 130,
+    "quote": "I can't just abandon everything I've accomplished... I can't abandon my comrades.",
+    "character": "Mikasa Ackerman",
+    "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg"
+  },
+  {
+    "id": 131,
+    "quote": "When we're born, all of us are free. People who reject that, no matter how strong they are, don't matter.",
+    "character": "Mikasa Ackerman",
+    "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg"
+  },
+  {
+    "id": 132,
+    "quote": "If you're strong, you can laugh at your mistakes. But if you haven't learned the truth, you can't laugh at all.",
+    "character": "Mikasa Ackerman",
+    "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg"
+  },
+  {
+    "id": 133,
+    "quote": "I want to keep wearing this scarf for as long as I can.",
+    "character": "Mikasa Ackerman",
+    "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg"
+  },
+  {
+    "id": 134,
+    "quote": "The world is a cruel place. But also very beautiful.",
+    "character": "Mikasa Ackerman",
+    "anime": "Attack on Titan",
+    "video": "https://youtu.be/E7WytLM2KvY?si=tVsMNeGXl0hubRkg"
   }
 ]

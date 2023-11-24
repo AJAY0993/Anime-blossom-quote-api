@@ -18,8 +18,6 @@ function getRandomInt(max) {
 const app = express()
 app.use(cors())
 
-
-
 //  HOME PAGE
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, '/public/index.html'))
@@ -61,6 +59,12 @@ app.get('/api/quotes/character', (req, res) => {
     const character = req.query.name.toLocaleLowerCase();
     const quote = quotes.find(quote => quote.character.toLowerCase() === character);
     res.json(quote || invalid[1])
+})
+
+app.get('/api/quotes/anime', (req, res) => {
+    const name = req.query.name.toLowerCase()
+    const resQuotes = quotes.filter(quote => quote.anime.toLowerCase() === name)
+    res.json(resQuotes)
 })
 
 // SEND QUOTE ON THE BASIS OF ID
